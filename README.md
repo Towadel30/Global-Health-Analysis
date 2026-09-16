@@ -1,4 +1,3 @@
-# Capstone-Project-AnalystLab-Africa
 # Global Health Outcomes and Healthcare Expenditure Analysis (1960–2025)
 
 ## Project Overview
